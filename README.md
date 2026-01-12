@@ -225,7 +225,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+- 📧 Email: [your-email@example.com](mailto:abhishekrajput90094@gmail.com)
 - 🐛 Issues: [GitHub Issues](https://github.com/Aabhi2002/AI-Lead-Automation/issues)
 - 💬 Discussions: [GitHub Discussions](https://github.com/Aabhi2002/AI-Lead-Automation/discussions)
 
