@@ -1,0 +1,6 @@
+pandas
+python-dotenv
+openai
+requests
+fastapi
+uvicorn
